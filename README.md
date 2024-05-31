@@ -1,13 +1,5 @@
-# React + Vite
+Desafío - Happy Cake
 
-## Instalación
+https://desafio1-react2.vercel.app/
 
-```
-npm install
-```
-
-## Ejecución
-
-```
-npm run dev
-```
+Gonzalo Valenzuela
